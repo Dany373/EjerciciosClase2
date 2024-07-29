@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25c370ba-15ad-42e7-baee-ed7ee10ad45f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo1/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo2/ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo3/VolumenCilindro.java" afterDir="false" />
+    <list default="true" id="25c370ba-15ad-42e7-baee-ed7ee10ad45f" name="Changes" comment="Subida de cambios">
+      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo1/circunferenciaCirculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo1/volumenCubo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo2/areaPiramideCuadrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo2/volumenPiramide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo3/areaParalelogramo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo3/volumenPrisma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umg/progra2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo1/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo1/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo2/ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo2/ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo3/VolumenCilindro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/umg/progra2/grupo3/VolumenCilindro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +32,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dany373&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dany373/EjerciciosClase2.git&quot;,
+    &quot;accountId&quot;: &quot;0670391f-a1b5-4bc6-b067-5cd993e45c6a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2jWAdNzMM9FdgBFUTFM5fWtDhgf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,7 +59,6 @@
     "Application.ejercicio1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/LINAJE ESCOGIDO/IdeaProjects/EjercicioEnClase2",
     "node.js.detected.package.eslint": "true",
@@ -79,8 +90,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721492547197</updated>
-      <workItem from="1721492548237" duration="8199000" />
+      <workItem from="1721492548237" duration="19596000" />
+      <workItem from="1722270934635" duration="1018000" />
     </task>
+    <task id="LOCAL-00001" summary="Subida de cambios">
+      <option name="closed" value="true" />
+      <created>1721596013713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721596013713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Subida de cambios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subida de cambios" />
   </component>
 </project>
